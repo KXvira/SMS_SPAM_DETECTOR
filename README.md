@@ -75,7 +75,7 @@ If you'd like to run this app on your machine:
 
 ## 🔗 Try it Live!
 
-👉 **[Launch the app here!](https://YOUR_USERNAME-sms-spam-detector.hf.space)**
+👉 **[Launch the app here!](https://huggingface.co/spaces/Xvira/sms-spam-detector)**
 
 ---
 
