@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter/Colab
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Model files (if very large and not versioned)
+*.pkl
+*.joblib
+
+# Streamlit cache
+.streamlit/
+
+# Python environment files
+*.egg-info/
+.eggs/
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Environment variables / secrets
+.env
