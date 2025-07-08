@@ -82,39 +82,3 @@ If you'd like to run this app on your machine:
 ## 👨‍💻 Author
 
 This mini-project was built by Kevin and team as part of an AI mini-project exercise.
-
----
-
-```
-
----
-
-# ✅ How to Use This README
-
-✅ Save the text above in your repo as:
-
-```
-
-README.md
-
-```
-
-✅ Replace this link:
-
-```
-
-[https://YOUR\_USERNAME-sms-spam-detector.hf.space](https://YOUR_USERNAME-sms-spam-detector.hf.space)
-
-```
-
-…with your actual Hugging Face Spaces URL once deployed!
-
----
-
-Let me know if you’d like:
-- A shorter README
-- More technical details
-- A specific license badge or image
-
-Let’s get this project shipped! 🚀
-```
